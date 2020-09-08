@@ -13,5 +13,4 @@ public class SingletonPattern {
         System.out.println(sig);
 
     }
-    
 }
